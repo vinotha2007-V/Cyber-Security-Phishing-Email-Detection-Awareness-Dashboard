@@ -1,0 +1,19 @@
+# Large datasets
+dataset/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Environment secrets
+.env
+.env.*
+
+# Keep example environment files if needed
+!.env.example
